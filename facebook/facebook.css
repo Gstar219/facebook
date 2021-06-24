@@ -1,0 +1,71 @@
+ody{
+	margin: 0px;
+}
+.headerline {
+	background-color: #415e9b;
+	display: flex;
+	color: white;
+}
+.facebook_text {
+	display: flex;
+	font-size: 40px;
+	font-style: bolt;
+	justify-content: left;
+	height: 35px;
+	width: 800px;
+	margin-top : -15px;	
+    margin-left: 30px;
+}
+.facebook-id{
+	display: flex;
+	font-size: 13px;
+}
+.Password{
+	margin-left: 10px;
+}
+.Submit{
+	padding-top: 27px;
+	margin-left: 10px;
+	justify-content: left;
+}
+.button{
+	background-color: #4267b2;
+	color: white;
+
+}
+form{
+	display: flex;
+}
+.network {
+    margin-left: 40px;
+	width: 800px;
+	font-size: 20px;
+	display: flex;
+	justify-content: flex;
+}
+.network label{
+	padding-right: 150px;
+	padding-top: 40px;
+	color: #050505;
+    margin-left: 30px;
+}
+.connect{
+	display: flex;
+}
+.create p{
+	font-size: 20px;
+}
+.fullName input{
+	width: 200px;
+	height: 30px;
+	padding-left: 10px;
+}
+
+.sign-up{
+	width:150px;
+	height:40px;
+	border-radius:5px;
+	background-color:#5F9e4d;
+	border:1px solid #C1c3c4;
+	color:#FFF;
+}
